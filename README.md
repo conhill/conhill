@@ -1,6 +1,13 @@
 # 💫 About Me:
-Senior Software Engineer working at Wunderkind. <br>Full-Stack developer writing ESP integrations and managing Airflow process and workflows
 
+I'm a **Lead Software Engineer** specializing in the architecture and delivery of robust full-stack solutions. At Wunderkind, I'm at the forefront of orchestrating complex data workflows with **Apache Airflow** and building powerful ESP integrations.
+
+My expertise extends beyond my professional role into hands-on AI engineering. I personally architected and developed a full-stack music classification pipeline, **training a custom TensorFlow model on ~300 songs**. 
+This model is the backbone of my **Flask API**, which uses **Librosa** to perform spectral analysis and feature extraction, powering a modern **React** front-end.
+
+In parallel, I've engineered **DaveBot**, a multi-API Discord assistant that performs real-time transcription with Wit.ai and provides conversational responses using **Google Gemini**. A key feature is its dynamic audio responses, generated in real-time with **Google Cloud Text-to-Speech (TTS)**.
+
+Also see me portfolio site based on Hitchhikers Guide to the Galaxy: https://conhill.github.io/dont-panic/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/connor-hill-b03b3055/) 
