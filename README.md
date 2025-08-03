@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-I'm a **Lead Software Engineer** specializing in the architecture and delivery of robust full-stack solutions. At Wunderkind, I'm at the forefront of orchestrating complex data workflows with **Apache Airflow** and building powerful ESP integrations.
+As a **Lead Software Engineer** at Wunderkind, I'm at the forefront of orchestrating complex data workflows with Apache Airflow and building powerful ESP integrations for a diverse range of enterprise clients. I am deeply involved in the entire delivery lifecycle, from architecting custom solutions and creating data transformation pipelines to leading our internal knowledge transfer and process documentation. My role involves not only writing and deploying code but also leading code reviews, triaging live issues for major clients, and guiding cross-functional teams to streamline workflows and improve our overall technical efficiency.
 
 My expertise extends beyond my professional role into hands-on AI engineering. I personally architected and developed a full-stack music classification pipeline, **training a custom TensorFlow model on ~300 songs**. 
-This model is the backbone of my **Flask API**, which uses **Librosa** to perform spectral analysis and feature extraction, powering a modern **React** front-end.
+This model is the backbone of my **Flask API**, which uses **Librosa** to perform spectral analysis and feature extraction, powering a simple **React** front-end.
 
 In parallel, I've engineered **DaveBot**, a multi-API Discord assistant that performs real-time transcription with Wit.ai and provides conversational responses using **Google Gemini**. A key feature is its dynamic audio responses, generated in real-time with **Google Cloud Text-to-Speech (TTS)**.
 
